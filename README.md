@@ -1,2 +1,2 @@
 # Lab2-EMcGarry
-Lab 1 for ITMD 361-01
+Lab 2 for ITMD 361-01
